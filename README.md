@@ -1,4 +1,4 @@
-![logo](https://github.com/mdaamir6870/mdaamir6870/blob/main/Master%20in%20Data%20Science.png)
+
 <h1 align="center">Hi 👋, I'm Md Aamir</h1>
 <h3 align="center">I'm striving to attain the role of a Data Scientist</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
