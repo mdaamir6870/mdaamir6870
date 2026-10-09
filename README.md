@@ -37,7 +37,7 @@
 - 🧠 Exploring RAG, embeddings, vector search, and prompt engineering.
 - 🐍 Developing AI applications using Python and modern LLM frameworks.
 - 🔍 Interested in AI agents, intelligent automation, and reliable AI applications.
-- 📫 Email: [yrmdamir@gmail.com](mailto:mdaamir2712@gmail.com)
+- 📫 Email: [mdaamir2712@gmail.com](mailto:mdaamir2712@gmail.com)
 
 ---
 
