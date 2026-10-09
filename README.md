@@ -1,7 +1,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mdaamir6870/mdaamir6870/main/logoOfgit.png" width="100" alt="Md Aamir Logo"/>
+<img src="https://raw.githubusercontent.com/mdaamir6870/mdaamir6870/main/genai-banner.png.png" width="100%" alt="Md Aamir - Generative AI Engineer"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/mdaamir6870/mdaamir6870/main/logoOfgit.png" width="90" alt="Md Aamir Logo"/>
 
 # Hi 👋, I'm Md Aamir
 
@@ -21,8 +25,6 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="350" alt="Coding animation"/>
-
 </div>
 
 ---
@@ -31,11 +33,11 @@
 
 - 🎓 MSc in Data Science.
 - 🤖 Focused on Generative AI, LLM applications, and AI engineering.
-- 💼 Worked on a Sales Chatbot initiative during my AI Development Internship at Detect Technologies, Chennai.
-- 🧠 Exploring Retrieval-Augmented Generation (RAG), embeddings, vector search, and prompt engineering.
-- 🐍 Building AI applications using Python and modern LLM frameworks.
-- 🔍 Interested in AI agents, intelligent automation, and production-ready AI solutions.
-- 📫 Email: **[yrmdamir@gmail.com](mailto:yrmdamir@gmail.com)**
+- 💼 AI Development Intern at Detect Technologies, Chennai.
+- 🧠 Exploring RAG, embeddings, vector search, and prompt engineering.
+- 🐍 Developing AI applications using Python and modern LLM frameworks.
+- 🔍 Interested in AI agents, intelligent automation, and reliable AI applications.
+- 📫 Email: [yrmdamir@gmail.com](mailto:yrmdamir@gmail.com)
 
 ---
 
@@ -76,19 +78,19 @@ Python · SQL · Pandas · NumPy · Machine Learning · Data Analysis
 
 ## 💼 Industry Experience
 
-### AI Development Intern — Detect Technologies
+### AI Development Intern — Detect Technologies, Chennai
 
 **Project: Sales Chatbot**
 
-Contributed to a Sales Chatbot initiative focused on applying Generative AI to product-related sales queries and conversational interactions.
+Contributed to a Sales Chatbot initiative focused on using Generative AI for product-related sales queries and conversational interactions.
 
 **Technologies:** Python, LlamaIndex, LangChain, Hugging Face, LLMs.
 
 **Focus Areas:**
-- Conversational AI and LLM-based workflows
-- Product-related query handling
-- Prompt engineering
-- AI-assisted sales support
+- Conversational AI and LLM-based workflows.
+- Product-related query handling.
+- Prompt engineering and AI workflow development.
+- AI-assisted sales support.
 
 ---
 
@@ -96,7 +98,7 @@ Contributed to a Sales Chatbot initiative focused on applying Generative AI to p
 
 ### 1. 🤖 Sales Chatbot — Detect Technologies
 
-A Generative AI initiative focused on improving product-related sales interactions through conversational AI.
+A Generative AI initiative focused on product-related sales interactions through conversational AI.
 
 **Tech Stack:** Python, LlamaIndex, LangChain, Hugging Face, LLMs.
 
@@ -104,19 +106,19 @@ A Generative AI initiative focused on improving product-related sales interactio
 
 ### 2. 📄 AI Resume Analyzer
 
-An AI-powered application that compares a resume with a job description and generates structured insights using LLMs.
+An AI-powered application that compares a resume against a job description and generates structured insights using LLMs.
 
 **Tech Stack:** Python, Streamlit, PDF/DOCX parsing, LLM APIs, JSON.
 
 **Key Features:**
-- Extract text from resumes in PDF and DOCX formats.
-- Analyze resume information against a job description.
+- Extract text from PDF and DOCX resumes.
+- Analyze resume content against job descriptions.
 - Generate structured AI outputs.
-- Present resume analysis through a Streamlit interface.
+- Present analysis through a Streamlit interface.
 
 ### 3. 🧠 Multi-Provider GenAI Assistant
 
-A Python application designed to work with different LLM providers through a common interface.
+A Python application designed to interact with multiple LLM providers through a common interface.
 
 **Tech Stack:** Python, OpenAI API, Google Gemini, Ollama.
 
@@ -124,7 +126,7 @@ A Python application designed to work with different LLM providers through a com
 - Multiple LLM provider integrations.
 - Modular provider architecture.
 - Environment variable and API key management.
-- Reusable functions for AI-powered applications.
+- Reusable functions for AI applications.
 
 ### 4. 🔎 RAG-Based Knowledge Assistant
 
@@ -147,7 +149,7 @@ Exploring document-based question answering using retrieval, embeddings, and vec
 - LLM evaluation and hallucination reduction.
 - AI agents, tool calling, and workflow automation.
 - FastAPI and Docker for AI application deployment.
-- Building and evaluating reliable LLM-powered applications.
+- Building and evaluating reliable LLM applications.
 
 ---
 
@@ -174,12 +176,14 @@ Exploring document-based question answering using retrieval, embeddings, and vec
 </a>
 
 <a href="mailto:yrmdamir@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-yrmdamir%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Md Aamir"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Md Aamir"/>
 </a>
 
 <a href="https://github.com/mdaamir6870">
   <img src="https://img.shields.io/badge/GitHub-mdaamir6870-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
 </a>
+
+<br/><br/>
 
 ### 🚀 Learning, Building & Innovating with AI
 
