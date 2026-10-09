@@ -17,7 +17,7 @@
   <a href="https://linkedin.com/in/md-aamir2712">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:yrmdamir@gmail.com">
+  <a href="mailto:mdaamir2712@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/mdaamir6870">
@@ -37,7 +37,7 @@
 - 🧠 Exploring RAG, embeddings, vector search, and prompt engineering.
 - 🐍 Developing AI applications using Python and modern LLM frameworks.
 - 🔍 Interested in AI agents, intelligent automation, and reliable AI applications.
-- 📫 Email: [yrmdamir@gmail.com](mailto:yrmdamir@gmail.com)
+- 📫 Email: [yrmdamir@gmail.com](mailto:mdaamir2712@gmail.com)
 
 ---
 
