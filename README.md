@@ -1,20 +1,124 @@
-![](https://github.com/mdaamir6870/mdaamir6870/blob/main/logoOfgit.png)
-<h1 align="center">Hi 👋, I'm Md Aamir</h1>
-<h3 align="center">I'm striving to attain the role of a Data Scientist</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently **honing my skills in data analytics and machine learning on my journey to becoming a proficient Data Scientist**
+<div align="center">
 
-- 📫 How to reach me **yrmdamir@gmail.com**
+<img src="https://raw.githubusercontent.com/mdaamir6870/mdaamir6870/main/logoOfgit.png" width="110" alt="Md Aamir Logo"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-aamir2712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-aamir2712" height="30" width="40" /></a>
+# Hi, I'm Md Aamir 👋
+
+### Generative AI Engineer | LLMs | RAG | AI Applications
+
+Building practical AI solutions using Large Language Models,
+Retrieval-Augmented Generation, and modern AI frameworks.
+
+<a href="https://linkedin.com/in/md-aamir2712">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="mailto:yrmdamir@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/mdaamir6870">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🎓 MSc in Data Science.
+- 🤖 Focused on Generative AI, LLM applications, and AI engineering.
+- 🧠 Exploring RAG pipelines, embeddings, vector search, and prompt engineering.
+- 🔧 Working with Python, LangChain, LlamaIndex, Hugging Face, and AI APIs.
+- 🛠️ Building practical AI projects and experimenting with multiple LLM providers.
+- 📈 Interested in developing reliable, useful, and production-ready AI applications.
+- 📫 Reach me at **mdaamir2712@gmail.com**
+
+---
+
+## 🧰 Tech Stack
+
+### Programming & Data
+<p>
+<img src="https://skillicons.dev/icons?i=python,git,github,mysql" alt="Python, Git, GitHub and MySQL"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Generative AI & Machine Learning
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdaamir6870&show_icons=true&locale=en&layout=compact" alt="mdaamir6870" /></p>
+<p>
+<img src="https://img.shields.io/badge/LLMs-Generative_AI-7C3AED?style=for-the-badge" alt="LLMs"/>
+<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-2563EB?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=for-the-badge&logo=langchain" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LlamaIndex-LLM_Framework-6C5CE7?style=for-the-badge" alt="LlamaIndex"/>
+<img src="https://img.shields.io/badge/Hugging_Face-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/FAISS-Vector_Search-0081CB?style=for-the-badge" alt="FAISS"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-LLM_Workflows-0EA5E9?style=for-the-badge" alt="Prompt Engineering"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdaamir6870&show_icons=true&locale=en" alt="mdaamir6870" /></p>
+### AI Development & Deployment
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Google_Gemini-API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+<img src="https://img.shields.io/badge/Groq-LLM_Inference-F55036?style=for-the-badge" alt="Groq"/>
+<img src="https://img.shields.io/badge/Ollama-Local_Models-111111?style=for-the-badge" alt="Ollama"/>
+<img src="https://img.shields.io/badge/Streamlit-AI_Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Scikit--learn-Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+</p>
+
+---
+
+## 💻 Featured Projects
+
+### 1. AI Resume Analyzer
+An AI-powered application that compares a resume with a job description and generates structured insights using LLMs.
+
+**Key concepts:** Python, Streamlit, PDF/DOCX parsing, prompt engineering, structured JSON output.
+
+### 2. Multi-Provider GenAI Assistant
+A Python application designed to interact with different LLM providers through a common interface.
+
+**Key concepts:** OpenAI, Gemini, Ollama, API integration, environment variables, modular Python code.
+
+### 3. RAG-Based Knowledge Assistant
+Exploring document-based question answering using retrieval, embeddings, and vector search.
+
+**Key concepts:** RAG, LangChain/LlamaIndex, sentence-transformers, FAISS.
+
+> Add repository links to these projects once their code is available on GitHub.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mdaamir6870&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaamir6870&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages"/>
+
+<img src="https://streak-stats.demolab.com?user=mdaamir6870&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🎯 Currently Learning
+
+- Advanced RAG and retrieval optimization
+- LLM evaluation and hallucination reduction
+- Vector databases and semantic search
+- AI agents and tool calling
+- FastAPI, Docker, and AI application deployment
+
+---
+
+<div align="center">
+
+### Let's build something intelligent! 🤖
+
+*Learning. Building. Experimenting. Improving.*
+
+<a href="https://github.com/mdaamir6870">Explore my repositories →</a>
+
+</div>
