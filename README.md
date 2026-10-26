@@ -1,210 +1,53 @@
- <!-- ================= HERO SECTION ================= -->
-
-<h1 align="center">👋 Hi, I'm Md Aamir</h1>
-
-<h3 align="center">🤖 AI Engineer | Generative AI | Agentic AI | Automation</h3>
+# 👋 Hi, I'm Md Aamir
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Systems;LLMs+%7C+RAG+%7C+AI+Agents;Python+%7C+LangChain+%7C+LangGraph;AI+Automation+%7C+Browser+Testing;Turning+Ideas+Into+AI+Solutions" alt="Animated AI Engineering Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=AI+Engineer;Generative+AI+%26+LLM+Applications;Agentic+AI+%26+Workflow+Automation;Building+Practical+AI+Solutions" alt="AI Engineering roles"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-Agentic_AI-7C3AED?style=for-the-badge" alt="Agentic AI"/>
-  <img src="https://img.shields.io/badge/BUILDING-LLM_Applications-0A84FF?style=for-the-badge" alt="LLM Applications"/>
-  <img src="https://img.shields.io/badge/POWERED_BY-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <b>AI Engineer | Generative AI | Agentic AI | AI Automation</b>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/md-aamir2712">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mdaamir2712@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/mdaamir6870">
-    <img src="https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
+  <a href="https://linkedin.com/in/md-aamir2712"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:mdaamir2712@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/mdaamir6870"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:102A43,100:0D1117&height=3" width="100%" alt="Section divider"/>
-</p>
-
-<!-- ================= AGENTIC AI LAB ================= -->
-
-<h2>🤖 01. Inside My Agentic AI Lab</h2>
-
-<p>
-  Exploring how LLMs, retrieval systems, tools, and evaluation work together to build intelligent AI applications.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LLM-Reasoning-7C3AED?style=flat-square" alt="LLM Reasoning"/>
-  <img src="https://img.shields.io/badge/RAG-Context_Retrieval-0A84FF?style=flat-square" alt="RAG"/>
-  <img src="https://img.shields.io/badge/TOOLS-Function_Calling-00A67D?style=flat-square" alt="Tool Calling"/>
-  <img src="https://img.shields.io/badge/EVALUATION-Quality_Checks-E3B341?style=flat-square" alt="Evaluation"/>
-</p>
-
-<details open>
-<summary><b>🧠 Explore the Agentic AI Architecture</b></summary>
-
-<br/>
-
-```mermaid
-flowchart TD
-    A["👤 User Request"] --> B["🧠 Agent Orchestrator"]
-    B --> C["📋 Planner"]
-    C --> D["🔎 Retrieval Agent"]
-    C --> E["🛠️ Tool Calling Agent"]
-    D --> F["📚 Context and Knowledge"]
-    F --> G["⚙️ Execution"]
-    E --> G
-    G --> H["✅ Validation and Evaluation"]
-    H --> I{"Result Valid?"}
-    I -- "No" --> C
-    I -- "Yes" --> J["💬 Final Response"]
-
-    classDef user fill:#172554,stroke:#60A5FA,color:#FFFFFF
-    classDef agent fill:#312E81,stroke:#A78BFA,color:#FFFFFF
-    classDef execute fill:#064E3B,stroke:#34D399,color:#FFFFFF
-    classDef validate fill:#78350F,stroke:#FBBF24,color:#FFFFFF
-
-    class A,J user
-    class B,C,D,E,F agent
-    class G execute
-    class H,I validate
-```
-
-**Architecture components**
-
-| Component | Responsibility |
-|---|---|
-| Planner | Break a task into manageable steps |
-| Retrieval | Retrieve relevant information and context |
-| Tool Calling | Select and invoke appropriate tools |
-| Execution | Run application or API operations |
-| Validation | Check outputs against requirements |
-| Evaluation | Assess quality, correctness, and reliability |
-
-*This is a conceptual architecture for learning and design. It does not imply that every component is already implemented in a deployed multi-agent system.*
-
-</details>
-
-<details>
-<summary><b>⚙️ Technologies Behind the Workflow</b></summary>
-
-- **LLM integration:** OpenAI API, Hugging Face models
-- **Orchestration:** LangChain, LangGraph
-- **Retrieval:** FAISS, Sentence Transformers, embeddings
-- **Application layer:** Python, FastAPI, Streamlit
-- **Testing:** Pytest, Playwright
-- **Engineering practices:** Structured outputs, logging, evaluation, error handling
-
-</details>
 
 ---
 
-<!-- ================= AUTOMATION ACTIVITY ================= -->
+## 👨‍💻 About Me
 
-<h2>⚡ 02. Automation in Action</h2>
+I'm an **MSc Data Science graduate focused on AI Engineering, Generative AI, and intelligent automation**. I am interested in building practical applications that combine Large Language Models, retrieval systems, agentic workflows, and Python-based software engineering.
 
-<p>Designing AI-assisted workflows that connect requirements, intelligent planning, browser actions, and test validation.</p>
-
-```text
-╭─────────────────────────────────────────────────────╮
-│           AI AUTOMATION CONTROL CENTER              │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  [01] REQUIREMENTS       → ANALYZE                  │
-│  [02] AI TEST PLANNER    → GENERATE TEST PLAN       │
-│  [03] PLAYWRIGHT         → EXECUTE BROWSER ACTIONS  │
-│  [04] PYTEST             → VALIDATE RESULTS         │
-│  [05] REPORTING          → SAVE EVIDENCE            │
-│                                                     │
-╰─────────────────────────────────────────────────────╯
-```
-
-<details open>
-<summary><b>🖥️ Sample Agent Execution Logs</b></summary>
-
-```text
-[AGENT]      Requirement received
-[PLANNER]    Test plan preparation requested
-[TOOL]       Browser automation selected
-[EXECUTOR]   Playwright workflow requested
-[VALIDATOR]  Acceptance criteria verification
-[REPORT]     Evidence and execution report preparation
-```
-
-> These are illustrative sample logs, not a live execution stream. Actual execution results should come from the running application.
-
-</details>
-
-<details>
-<summary><b>🔬 Autonomous UI Testing Agent — Workflow</b></summary>
-
-```mermaid
-flowchart LR
-    A["Issue JSON"] --> B["AI Test Planner"]
-    B --> C["Test Cases"]
-    C --> D["Playwright"]
-    D --> E["Pytest Assertions"]
-    E --> F["Screenshots and Logs"]
-    F --> G["Execution Report"]
-```
-
-**Technology stack:** Python · OpenAI API · Playwright · Pytest · JSON
-
-**Current limitations:** End-to-end execution is pending. GitHub webhook integration is not implemented.
-
-</details>
-
----
-
-<!-- ================= ABOUT ME ================= -->
-
-<h2>👨‍💻 03. About Me</h2>
-
-I'm Md Aamir, an MSc Data Science graduate focused on developing practical AI applications and intelligent automation systems.
-
-My interests span Generative AI, Large Language Models, retrieval-augmented generation, AI agent workflows, and reliable AI-powered software testing.
-
-I enjoy exploring how AI can move beyond generating text to retrieving knowledge, using tools, completing structured tasks, and validating outcomes.
+My focus is on developing AI applications that can work with contextual information, interact with tools, automate tasks, and produce verifiable results.
 
 - 🎓 **Education:** MSc Data Science
-- 🤖 **Primary focus:** AI Engineering and Agentic AI
-- 🧠 **Core interests:** LLMs, RAG, embeddings, and agent orchestration
-- ⚙️ **Application development:** Python, APIs, and AI automation
-- 🧪 **Quality engineering:** Playwright, Pytest, and test evaluation
-- 🚀 **Goal:** Build reliable, maintainable, real-world AI applications
+- 🤖 **Core Focus:** Generative AI, LLM Applications, and Agentic AI
+- 🧠 **AI Engineering:** RAG, embeddings, tool calling, and workflow orchestration
+- ⚙️ **Automation:** Python, Playwright, Pytest, and API integration
+- 📊 **Foundation:** Machine Learning, NLP, statistics, and predictive analytics
+- 🚀 **Career Goal:** Build reliable, maintainable AI applications for real-world use cases
+
+**My engineering approach:** Understand the problem → design the solution → implement → test → evaluate → improve.
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+## 🛠️ Technical Skills
 
-<h2>🛠️ 04. AI Engineering Tech Stack</h2>
-
-<h3>💻 Programming and Data Science</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,bash" alt="Python, SQL, Git, GitHub, Bash"/>
-</p>
-
-`Python` · `SQL` · `Pandas` · `NumPy` · `Statistics`
-
-<h3>🤖 Generative AI and Agentic AI</h3>
+### Generative AI & Agentic AI
 
 <p>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-Agent_Orchestration-1C3C3C?style=for-the-badge" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LangGraph-Agent_Workflows-1C3C3C?style=for-the-badge" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/LlamaIndex-RAG_Framework-6C5CE7?style=for-the-badge" alt="LlamaIndex"/>
 </p>
 
-`LLMs` · `Prompt Engineering` · `Function Calling` · `Structured Outputs` · `Agent Workflows` · `LLM Evaluation`
+`LLMs` · `Prompt Engineering` · `Function Calling` · `Structured Outputs` · `Agent Orchestration` · `LLM Evaluation`
 
-<h3>🔎 RAG and Vector Search</h3>
+### RAG & Vector Databases
 
 <p>
   <img src="https://img.shields.io/badge/FAISS-Vector_Search-0081CB?style=for-the-badge" alt="FAISS"/>
@@ -212,17 +55,25 @@ I enjoy exploring how AI can move beyond generating text to retrieving knowledge
   <img src="https://img.shields.io/badge/Sentence_Transformers-Embeddings-16A085?style=for-the-badge" alt="Sentence Transformers"/>
 </p>
 
-`Chunking` · `Embeddings` · `Semantic Search` · `Metadata Filtering` · `Hybrid Search` · `Reranking`
+`Document Chunking` · `Embeddings` · `Semantic Search` · `Metadata Filtering` · `Hybrid Retrieval` · `Reranking`
 
-<h3>🌐 Backend and Applications</h3>
+### Programming & Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit,docker,aws,postman,linux,githubactions" alt="FastAPI, Flask, Streamlit, Docker, AWS, Postman, Linux, GitHub Actions"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,bash" alt="Python, SQL, Git, GitHub and Bash"/>
 </p>
 
-`REST APIs` · `Application Integration` · `Deployment` · `Logging` · `Monitoring`
+`Python` · `SQL` · `Pandas` · `NumPy` · `Statistics` · `Data Processing`
 
-<h3>🧪 AI Automation and Testing</h3>
+### Backend & Application Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit,docker,aws,postman,linux,githubactions" alt="FastAPI, Flask, Streamlit, Docker, AWS, Postman, Linux and GitHub Actions"/>
+</p>
+
+`REST APIs` · `FastAPI` · `Streamlit` · `Docker` · `API Integration` · `Logging` · `Deployment`
+
+### AI Automation & Testing
 
 <p>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
@@ -230,152 +81,204 @@ I enjoy exploring how AI can move beyond generating text to retrieving knowledge
   <img src="https://img.shields.io/badge/Browser_Automation-0A84FF?style=for-the-badge" alt="Browser Automation"/>
 </p>
 
-`Test Planning` · `Assertions` · `Screenshots` · `Test Reports` · `Workflow Automation`
+`Test Planning` · `Browser Automation` · `Assertions` · `Screenshots` · `Test Reports` · `Workflow Automation`
 
-<h3>📊 Machine Learning and NLP</h3>
+### Machine Learning & NLP
 
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" alt="TensorFlow and Scikit-learn"/>
 </p>
 
-`Machine Learning` · `Deep Learning` · `NLP` · `XGBoost` · `Time-Series Forecasting`
+`Machine Learning` · `Deep Learning` · `NLP` · `XGBoost` · `Model Evaluation` · `Time-Series Forecasting`
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+## 🚀 Featured Projects
 
-<h2>🚀 05. Featured Projects</h2>
-
-<h3>🤖 1. Autonomous UI Testing Agent</h3>
+### 1. 🤖 Autonomous UI Testing Agent
 
 **AI-assisted browser testing and workflow automation**
 
-An AI-assisted testing project designed to translate requirements into test plans, automate browser interactions, verify acceptance criteria, and prepare execution evidence.
+A Python-based project designed to combine AI-assisted test planning with browser automation and test validation.
 
-**Workflow:** Requirements → AI Test Planning → Playwright → Pytest → Evidence
+**Key capabilities**
+- Read structured requirements from a JSON issue file.
+- Prepare an AI-assisted test plan.
+- Automate browser interactions using Playwright.
+- Validate acceptance criteria with Pytest.
+- Prepare execution reports, screenshots, and logs.
 
-**Tech stack:** `Python` `OpenAI API` `Playwright` `Pytest` `JSON`
+**Tech Stack:** `Python` `OpenAI API` `Playwright` `Pytest` `JSON`
 
-**Status:** In development. End-to-end execution is pending, and GitHub webhook integration is not implemented.
+**Current Status:** End-to-end execution pending. GitHub webhook integration is not implemented.
 
-<h3>🔎 2. RAG-Based Knowledge Assistant</h3>
+<details>
+<summary><b>Technical Details</b></summary>
 
-A retrieval-augmented question-answering application concept focused on retrieving relevant document context before generating answers.
+The intended workflow separates requirement interpretation, test planning, browser execution, assertions, and reporting. The implementation should be validated end-to-end before these capabilities are described as operational.
 
-**Workflow:** Documents → Chunking → Embeddings → Vector Search → LLM Response
+</details>
 
-**Tech stack:** `Python` `LangChain` `FAISS` `Sentence Transformers`
+### 2. 🔎 RAG-Based Knowledge Assistant
 
-**Status:** Concept / implementation status to be updated.
+**Retrieval-Augmented Generation for document question answering**
 
-<h3>💬 3. Generative AI Sales Chatbot</h3>
+A knowledge assistant concept focused on retrieving relevant document content and using it as context for LLM-generated answers.
 
-A conversational AI concept for answering product-related questions and supporting intelligent customer interactions.
+**Core concepts**
+- Document processing and chunking
+- Embedding generation
+- Vector similarity search
+- Context retrieval
+- Grounded answer generation
 
-**Tech stack:** `Python` `LLMs` `LangChain` `LlamaIndex`
+**Tech Stack:** `Python` `LangChain` `FAISS` `Sentence Transformers`
 
-**Status:** Planned / implementation status to be updated.
+**Status:** Update this section to reflect the actual implementation stage.
 
-<h3>🌧️ 4. Urban Rainfall Analysis and Prediction</h3>
+### 3. 💬 Generative AI Sales Chatbot
 
-A data science project analyzing urban rainfall patterns using geospatial datasets and exploring time-series forecasting with LSTM.
+**Conversational AI for product-related queries**
 
-**Data sources:** GPM IMERG · MERRA-2 · Google Earth Engine
+A conversational AI initiative designed to explore product information retrieval and intelligent customer interactions.
 
-**Tech stack:** `Python` `Pandas` `Geospatial Analysis` `LSTM`
+**Core concepts:** Product queries, prompt design, contextual responses, and LLM integration.
 
-**Status:** Research / analytical project.
+**Tech Stack:** `Python` `LLMs` `LangChain` `LlamaIndex`
 
-<p align="center">
-  <a href="https://github.com/mdaamir6870?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github" alt="Explore GitHub Repositories"/>
-  </a>
-</p>
+**Status:** Planned / implementation stage to be updated.
+
+### 4. 🌧️ Urban Rainfall Analysis & Prediction
+
+**Geospatial analysis and time-series forecasting**
+
+Analyzed urban rainfall patterns using satellite-based rainfall and climate datasets, with an LSTM-based forecasting approach.
+
+**Key areas**
+- Rainfall data analysis and preprocessing
+- Geospatial data exploration
+- Time-series model development
+- Forecast evaluation
+
+**Tech Stack:** `Python` `Google Earth Engine` `GPM IMERG` `MERRA-2` `LSTM`
 
 ---
 
-<!-- ================= ENGINEERING PRINCIPLES ================= -->
+## ⚙️ AI Engineering Lab
 
-<h2>🔬 06. From Prompt to Production</h2>
-
-```mermaid
-flowchart TD
-    A["Prompt and Requirements"] --> B["Context Retrieval"]
-    B --> C["LLM / Agent Orchestration"]
-    C --> D["Tool and API Execution"]
-    D --> E["Validation and Evaluation"]
-    E --> F["Logging and Observability"]
-    F --> G["Improved AI Application"]
-```
+My AI engineering interests cover the major components needed to build useful LLM applications.
 
 <details>
-<summary><b>📌 My AI Engineering Principles</b></summary>
+<summary><b>🧠 LLM Application Development</b></summary>
 
-- **Grounded responses:** Retrieve relevant context when appropriate.
-- **Structured outputs:** Use predictable data formats for application integration.
-- **Tool safety:** Validate inputs and handle failures.
-- **Evaluation:** Test correctness, relevance, and task completion.
-- **Observability:** Capture useful logs and execution evidence.
-- **Maintainability:** Keep code modular, testable, and documented.
+- Prompt design and structured outputs
+- API integration and response handling
+- Context management
+- Error handling and output validation
+
+</details>
+
+<details>
+<summary><b>🔍 Retrieval-Augmented Generation</b></summary>
+
+- Document ingestion and chunking
+- Embeddings and vector indexing
+- Semantic retrieval and metadata filtering
+- Retrieval quality and response evaluation
+
+</details>
+
+<details>
+<summary><b>🤖 Agentic Workflows</b></summary>
+
+- Task decomposition and planning
+- Tool selection and function calling
+- Multi-step workflow orchestration
+- State management and result validation
+
+</details>
+
+<details>
+<summary><b>🧪 AI Automation & Quality Engineering</b></summary>
+
+- Requirement-driven test planning
+- Browser automation with Playwright
+- Pytest assertions and reporting
+- Logs, screenshots, and execution evidence
 
 </details>
 
 ---
 
-<!-- ================= GITHUB ANALYTICS ================= -->
+## ⚡ Automation Activity
 
-<h2>📊 07. GitHub Analytics</h2>
+A sample view of the stages involved in an AI-assisted testing workflow.
+
+```text
+┌──────────────────────────────────────────┐
+│       AI AUTOMATION WORKFLOW             │
+├──────────────────────────────────────────┤
+│  01  Requirement Analysis                │
+│  02  AI-Assisted Test Planning           │
+│  03  Browser Automation                 │
+│  04  Acceptance Criteria Validation     │
+│  05  Report and Evidence Preparation    │
+└──────────────────────────────────────────┘
+```
+
+**Illustrative terminal log**
+
+```text
+[INPUT]      Requirement received
+[PLANNER]    Test plan preparation
+[EXECUTOR]   Browser workflow requested
+[VALIDATOR]  Acceptance criteria checks
+[REPORT]     Evidence preparation
+```
+
+*These are example workflow stages and sample logs, not a live monitoring feed. Actual results must come from application execution.*
+
+---
+
+## 💼 Experience
+
+### AI Development Intern — Detect Technologies
+
+**January 2024 – May 2024**
+
+- Explored AI application development and LLM-based conversational workflows.
+- Worked with Python and Generative AI concepts for product-related query handling.
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdaamir6870&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaamir6870&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdaamir6870&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaamir6870&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top programming languages"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mdaamir6870&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak"/>
 </p>
 
-<h3 align="center">🐍 Contribution Activity</h3>
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution animation"/>
-  </picture>
-</p>
-
-<p align="center">
-  <i>Analytics depend on GitHub data availability and external image services.</i>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation"/>
 </p>
 
 ---
 
-<!-- ================= CONNECT ================= -->
-
-<h2 align="center">🤝 Let's Connect</h2>
+## 🤝 Connect With Me
 
 <p align="center">
-  I'm interested in AI engineering, Generative AI, agentic workflows, and building useful intelligent applications.
+  <a href="https://linkedin.com/in/md-aamir2712"><img src="https://img.shields.io/badge/LinkedIn-Md_Aamir-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:mdaamir2712@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/mdaamir6870"><img src="https://img.shields.io/badge/GitHub-mdaamir6870-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/md-aamir2712">
-    <img src="https://img.shields.io/badge/LinkedIn-Md_Aamir-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
-  </a>
-  <a href="mailto:mdaamir2712@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Md Aamir"/>
-  </a>
-  <a href="https://github.com/mdaamir6870">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
-  </a>
+  <b>Building reliable AI systems through intelligent retrieval, tool use, automation, and evaluation.</b>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B62,100:0D1117&height=120&section=footer" width="100%" alt="Decorative footer"/>
-</p>
-
-<h3 align="center">⚡ Building reliable AI systems that reason, retrieve, use tools, and automate real workflows.</h3>
 
 <p align="center">
   <i>Learn continuously. Build practically. Validate everything.</i>
