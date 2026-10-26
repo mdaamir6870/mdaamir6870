@@ -1,192 +1,76 @@
+# 👋 Hi, I'm Md Aamir
 
-<div align="center">
+### 🤖 AI Engineer | Generative AI | AI Agents
 
-<img src="https://raw.githubusercontent.com/mdaamir6870/mdaamir6870/main/genai-banner.png.png" width="100%" alt="Md Aamir - Generative AI Engineer"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/mdaamir6870/mdaamir6870/main/logoOfgit.png" width="90" alt="Md Aamir Logo"/>
-
-# Hi 👋, I'm Md Aamir
-
-### Generative AI Engineer | LLMs | RAG | AI Applications
-
-**Building intelligent applications with Generative AI, Large Language Models, and Python.**
+Building intelligent applications with **LLMs, RAG, AI Agents, and Python.**
 
 <p>
-  <a href="https://linkedin.com/in/md-aamir2712">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mdaamir2712@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/mdaamir6870">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
-
-</div>
-
----
-
-## 🚀 About Me
-
-- 🎓 MSc in Data Science.
-- 🤖 Focused on Generative AI, LLM applications, and AI engineering.
-- 💼 AI Development Intern at Detect Technologies, Chennai.
-- 🧠 Exploring RAG, embeddings, vector search, and prompt engineering.
-- 🐍 Developing AI applications using Python and modern LLM frameworks.
-- 🔍 Interested in AI agents, intelligent automation, and reliable AI applications.
-- 📫 Email: [mdaamir2712@gmail.com](mailto:mdaamir2712@gmail.com)
-
----
-
-## 🧰 Technical Skills
-
-### 💻 Programming & Data Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github" alt="Python, MySQL, Git and GitHub"/>
-</p>
-
-Python · SQL · Pandas · NumPy · Machine Learning · Data Analysis
-
-### 🤖 Generative AI & LLM Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/Generative_AI-LLMs-7C3AED?style=for-the-badge" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-2563EB?style=for-the-badge" alt="RAG"/>
-  <img src="https://img.shields.io/badge/LangChain-LLM_Framework-1C3C3C?style=for-the-badge&logo=langchain" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-Data_Framework-6C5CE7?style=for-the-badge" alt="LlamaIndex"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-Open_Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/FAISS-Vector_Search-0081CB?style=for-the-badge" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-LLM_Workflows-0EA5E9?style=for-the-badge" alt="Prompt Engineering"/>
-</p>
-
-### ⚙️ AI Development & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
-  <img src="https://img.shields.io/badge/Groq-LLM_Inference-F55036?style=for-the-badge" alt="Groq"/>
-  <img src="https://img.shields.io/badge/Ollama-Local_Models-111111?style=for-the-badge" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/Streamlit-AI_Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <a href="https://linkedin.com/in/md-aamir2712"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:mdaamir2712@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/mdaamir6870"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
-## 💼 Industry Experience
+### 🧠 Tech Stack
 
-### AI Development Intern — Detect Technologies, Chennai
+**AI & LLMs**
 
-**Project: Sales Chatbot**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+</p>
 
-Contributed to a Sales Chatbot initiative focused on using Generative AI for product-related sales queries and conversational interactions.
+**Development & Deployment**
 
-**Technologies:** Python, LlamaIndex, LangChain, Hugging Face, LLMs.
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,docker,aws,mysql,git,github,linux" />
+</p>
 
-**Focus Areas:**
-- Conversational AI and LLM-based workflows.
-- Product-related query handling.
-- Prompt engineering and AI workflow development.
-- AI-assisted sales support.
-
----
-
-## 💻 Featured Projects
-
-### 1. 🤖 Sales Chatbot — Detect Technologies
-
-A Generative AI initiative focused on product-related sales interactions through conversational AI.
-
-**Tech Stack:** Python, LlamaIndex, LangChain, Hugging Face, LLMs.
-
-**Key Concepts:** Conversational AI, prompt engineering, LLM workflows, product query handling.
-
-### 2. 📄 AI Resume Analyzer
-
-An AI-powered application that compares a resume against a job description and generates structured insights using LLMs.
-
-**Tech Stack:** Python, Streamlit, PDF/DOCX parsing, LLM APIs, JSON.
-
-**Key Features:**
-- Extract text from PDF and DOCX resumes.
-- Analyze resume content against job descriptions.
-- Generate structured AI outputs.
-- Present analysis through a Streamlit interface.
-
-### 3. 🧠 Multi-Provider GenAI Assistant
-
-A Python application designed to interact with multiple LLM providers through a common interface.
-
-**Tech Stack:** Python, OpenAI API, Google Gemini, Ollama.
-
-**Key Features:**
-- Multiple LLM provider integrations.
-- Modular provider architecture.
-- Environment variable and API key management.
-- Reusable functions for AI applications.
-
-### 4. 🔎 RAG-Based Knowledge Assistant
-
-Exploring document-based question answering using retrieval, embeddings, and vector search.
-
-**Tech Stack:** Python, LangChain/LlamaIndex, Sentence Transformers, FAISS.
-
-**Key Concepts:**
-- Retrieval-Augmented Generation (RAG).
-- Semantic search and embeddings.
-- Context-aware question answering.
-- Document retrieval for LLM applications.
+`RAG` · `Vector Databases` · `Embeddings` · `Prompt Engineering` · `AI Agents` · `REST APIs` · `Machine Learning`
 
 ---
 
-## 📚 Currently Learning
+### 🚀 Featured Project
 
-- Advanced RAG pipelines and retrieval optimization.
-- Vector databases and semantic search.
-- LLM evaluation and hallucination reduction.
-- AI agents, tool calling, and workflow automation.
-- FastAPI and Docker for AI application deployment.
-- Building and evaluating reliable LLM applications.
+**🤖 Autonomous UI Testing Agent**
 
----
+AI-powered browser testing that generates test plans, executes UI workflows, validates acceptance criteria, and prepares test reports.
 
-## 📊 GitHub Analytics
+`Python` `OpenAI API` `Playwright` `Pytest`
 
-<div align="center">
+- 🧠 AI-generated test planning
+- 🌐 Automated e-commerce browser testing
+- 📸 Screenshots, logs & test reports
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdaamir6870&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaamir6870&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top programming languages"/>
-
-<img src="https://streak-stats.demolab.com?user=mdaamir6870&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak"/>
-
-</div>
+**Status:** Code prepared · End-to-end execution pending
 
 ---
 
-## 🤝 Connect With Me
+### 💼 Experience & Education
 
-<div align="center">
+- 💻 AI Development Intern — Detect Technologies
+- 🎓 MSc Data Science — Christ (Deemed to be University)
 
-<a href="https://linkedin.com/in/md-aamir2712">
-  <img src="https://img.shields.io/badge/LinkedIn-Md_Aamir-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
-</a>
+---
 
-<a href="mailto:yrmdamir@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Md Aamir"/>
-</a>
+### 🎯 Current Focus
 
-<a href="https://github.com/mdaamir6870">
-  <img src="https://img.shields.io/badge/GitHub-mdaamir6870-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
-</a>
+`Agentic AI` · `Advanced RAG` · `LangGraph` · `FastAPI` · `Docker` · `LLMOps`
 
-<br/><br/>
+---
 
-### 🚀 Learning, Building & Innovating with AI
+### 📊 GitHub Stats
 
-*Turning ideas into intelligent applications.*
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdaamir6870&show_icons=true&theme=tokyonight&hide_border=true" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaamir6870&layout=compact&theme=tokyonight&hide_border=true" height="155" />
+</p>
 
-</div>
+---
+
+<p><b>⚡ Turning ideas into intelligent AI solutions.</b></p>
+
