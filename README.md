@@ -1,33 +1,48 @@
-# Hi 👋, I'm Md Aamir
+# 👋 Hey there! I'm Md Aamir
+
+<h3 align="center">🤖 AI Engineer · Generative AI · Agentic AI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Generative+AI+Engineer;AI+Agent+Developer;Building+Intelligent+AI+Systems" alt="Animated typing headline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Engineering+Intelligent+AI+Systems;Building+with+LLMs+%26+RAG;Developing+AI+Agents+%26+Automation;Turning+Ideas+into+AI+Solutions" alt="Animated AI engineering tagline"/>
 </p>
 
 <p align="center">
-  Building intelligent applications with <b>LLMs, RAG, AI Agents, and Python.</b>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/md-aamir2712"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:mdaamir2712@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/mdaamir6870"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/md-aamir2712"><img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+  <a href="https://github.com/mdaamir6870"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🎓 MSc in Data Science.
-- 🤖 Focused on AI Engineering, Generative AI, LLMs, and AI Agents.
-- 🧠 Interested in RAG, vector databases, embeddings, and agentic workflows.
-- ⚙️ Building AI-powered applications and intelligent automation systems.
-- 🧪 Working with AI-driven browser testing using Python, OpenAI API, Playwright, and Pytest.
-- 📊 Background in Machine Learning, NLP, statistics, and predictive analytics.
+<table>
+  <tr>
+    <td>🎓</td>
+    <td><b>Education</b><br/>MSc in Data Science</td>
+    <td>🤖</td>
+    <td><b>Specialization</b><br/>AI Engineering & Generative AI</td>
+  </tr>
+  <tr>
+    <td>🧠</td>
+    <td><b>Exploring</b><br/>LLMs, RAG & Agentic Workflows</td>
+    <td>⚙️</td>
+    <td><b>Building</b><br/>AI Applications & Automation</td>
+  </tr>
+  <tr>
+    <td>🧪</td>
+    <td><b>Current Project</b><br/>Autonomous UI Testing Agent</td>
+    <td>📊</td>
+    <td><b>Foundation</b><br/>ML, NLP & Predictive Analytics</td>
+  </tr>
+</table>
 
----
+> 💡 **My mission:** Turn complex ideas into practical, intelligent AI solutions using Python, LLMs, and modern AI engineering tools.
 
-## 🧠 AI Engineering Stack
+**Industry Experience:** AI Development Intern — Detect Technologies
+
+📫 **Email:** [mdaamir2712@gmail.com](mailto:mdaamir2712@gmail.com)
+
+
 
 ### 💻 Programming & Data Science
 
